@@ -3,6 +3,8 @@
 //com= com || {};
 //com.sapui=com.sapui || {v:10};
 
+// NEW COMMENT FOR COMMIT
+
 
 com.sapui.initStructure("com.sapui.calculator");
 var calc = $.calculator;
